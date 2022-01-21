@@ -41,8 +41,8 @@ Your client has asked that you help identify any vulnerabilities with their file
 
 - Command for Zenmap to run a service scan against the Metasploitable machine: 
  
-# Scan command as well as the output text scan
- nmap -sV 192.168.0.10 -oN zenmapscan.txt
+- Scan command as well as the output text scan
+  nmap -sV 192.168.0.10 -oN zenmapscan.txt
 
 - Zenmap vulnerability script command: nmap -sC --script smb-enum-shares 192.168.0.10
 
