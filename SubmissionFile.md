@@ -1,4 +1,4 @@
-# Week 16 Homework Submission File: Penetration Tesi
+# Week 16 Homework Submission File: Penetration Testing
 
 #### Step 1: Google Dorking
 
