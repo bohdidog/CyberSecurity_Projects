@@ -10,7 +10,7 @@
 
 #### Step 2: DNS and Domain Discovery
 
-Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the following questions based on the results:
+-Enter the IP address for `demo.testfire.net` into Domain Dossier and answer the following questions   based on the results:
 
   1. Where is the company located: 9725 Datapoint Drive, Suite 100 San Antonio, TX
 
