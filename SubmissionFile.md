@@ -33,7 +33,7 @@
 
 Is Altoro Mutual vulnerable to XSS: 
  Yes, there is an unpatched vulnerability.
-![XSS Vulnerability](Images/xxs.png)
+![XSS Vulnerability](Images/xss.png)
 
 ### Step 5: Zenmap
 
