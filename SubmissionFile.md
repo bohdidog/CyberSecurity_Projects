@@ -49,9 +49,9 @@ Your client has asked that you help identify any vulnerabilities with their file
 - Once you have identified this vulnerability, answer the following questions for your client:
   1. What is the vulnerability: The /tmp is available for any user to read/write.
 
-  2. Why is it dangerous: The /tmp file is for temporary folders to execute then delete an at     tacker can easily insert a payload in and then execute and cover his/her tracks as the s     ystem deletes it after use. They can also lock the files to avoid access and pretty much     insert anything into them.
+  2. Why is it dangerous: The /tmp file is for temporary folders to execute then delete an attacker can easily insert a payload in and then execute and cover his/her tracks as the system deletes it after use. They can also lock the files to avoid access and pretty much     insert anything into them.
 
-  3. What mitigation strategies can you recommendations for the client to protect their server:
+  3. What mitigation strategies can you recommendations for the client to protect their server: Limit user access. Modify the permissions of Users. Change the permissions to only allow the Administator access to read/write privileges.
 
 ---
 © 2020 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.  
